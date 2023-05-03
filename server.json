@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de Site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-04-25 15:00:00"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-04-25 15:05:00"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-25 15:00:00"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-04-25 15:05:00"
+    },
+    {
+      "description": "Céu Bar",
+      "price": 90,
+      "category": "Festa",
+      "type": "outcome",
+      "createdAt": "2023-05-03T00:35:50.933Z",
+      "id": 3
+    },
+    {
+      "description": "Salário",
+      "price": 1000,
+      "category": "Emprego",
+      "type": "income",
+      "createdAt": "2023-05-03T00:47:53.387Z",
+      "id": 4
+    }
+  ]
 }
